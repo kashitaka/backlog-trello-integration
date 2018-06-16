@@ -43,3 +43,6 @@ if your Backlog url is `https://hogefuga.backlog.com/`, this parameter is `hogef
 * Node.js version: `v6.10.3`
 * `npm install`
 * `npm start`
+
+## License
+MIT
